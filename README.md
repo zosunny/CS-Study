@@ -12,8 +12,10 @@
 
 < FE >
 * JavaScript
+* React
 
 < BE >
+* 디자인패턴
 * 자바
 * 스프링
 
