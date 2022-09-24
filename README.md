@@ -1,5 +1,5 @@
 # CS Study
-**FE, BE 통합 기술면접 대비 repository 입니다.**
+#### **FE, BE 통합 기술면접 대비 repository 입니다.**
 
 ## 주제
 
