@@ -87,7 +87,7 @@
 
 ![스크린샷 2022-10-02 오후 3.57.14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0789c1c-0938-476d-8913-6f2a24c209fe/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-10-02_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.57.14.png)
 
-- `[Scale out/Scale up](https://www.notion.so/Scale-up-Scale-out-797e647103dc460d994ef3ebabad19b7)`
+- `[Scale out/Scale up]`
     
     *Scale out : 수평확장*
     
